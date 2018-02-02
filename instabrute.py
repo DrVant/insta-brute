@@ -1,8 +1,8 @@
 # coding=utf-8
 ###############################################################################
 # Instagram Brute Forcer
-# Developed By N3TC@T
-# netcat[dot]av[at]gmail[dot]com 
+# Developed By DrVant
+# Cameovante08[dot][at]gmail[dot]com 
 # !/usr/bin/python
 ###############################################################################
 from __future__ import print_function
