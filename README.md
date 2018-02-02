@@ -17,12 +17,11 @@
     |    ) )            |_.__/|_| \_\_____/ |_| |_____|     |
     |   (_(                                                 |
     '-------------------------------------------------------'
-    +-----+-----+-----+-----+-----+-----+
-    | Created By: • DrVant •            |
-    |                                   |
-    | Contact: cameovante08@gmail.com   |
-    +-----+-----+-----+-----+-----+-----+
-
+    +-----+-----+-----+-----+
+    | Created By:           |
+    |        • DrVant •     |
+    |                       |
+    +-----+-----+-----+-----+
 **[Warning] I take no responsibility for the use of this script [Warning]**
 
 Cracking instagram account password by giving password list file and support proxy
@@ -32,7 +31,7 @@ Cracking instagram account password by giving password list file and support pro
 ```./instabrute.py [-h] -u USERNAME -w WORD -p PROXY [-t THREAD] [-v] [-d]```
 
 ``` ./instabrute -u user_test -w words.txt -p proxys.txt -t 4 -d -v```
-
+![alt tag](https://raw.githubusercontent.com/DrVant/insta-brute/master/screenshot.jpg)
 ### Requirements
 
 * Noting :)
