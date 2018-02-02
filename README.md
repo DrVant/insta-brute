@@ -17,11 +17,11 @@
     |    ) )            |_.__/|_| \_\_____/ |_| |_____|     |
     |   (_(                                                 |
     '-------------------------------------------------------'
-    +-----+-----+-----+-----+
-    | Created By:          |
-    |        • DrVant •      |
-    |                               |
-    +-----+-----+-----+-----+
+    +-----+-----+-----+-----+-----+-----+
+    | Created By: • DrVant •            |
+    |                                   |
+    | Contact: cameovante08@gmail.com   |
+    +-----+-----+-----+-----+-----+-----+
 
 **[Warning] I take no responsibility for the use of this script [Warning]**
 
@@ -56,10 +56,15 @@ Cracking instagram account password by giving password list file and support pro
 5. Submit a pull request :D
 
 ## Donate :)
+BitCoin
 
 ![Bitcoin Donate Button](https://www.drupal.org/files/project-images/bitcoindonate.png)
 
 Address : **1ySrFrBnT9E5Ymy6AceeVSVCudwRQpcs5**
 
 QR CODE :
-![Bitcoin Donate QR](https://imgur.com/a/VDQzS)
+[![Bitcoin](https://imgur.com/a/VDQzS)
+
+Paypal 
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=3PK5LVQS6J3FJ)
